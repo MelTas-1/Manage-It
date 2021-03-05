@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "169184298541",
+    "project_id": "manage-it-4ec83",
+    "storage_bucket": "manage-it-4ec83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169184298541:android:718abc2599c755c9eddaa4",
+        "android_client_info": {
+          "package_name": "ch.tas.manageit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169184298541-0fg8pa8526eqe74lt6hf3utkvo0thcjo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsrK--askXjiwzVUSUgry4GNX2fq3RtZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169184298541-0fg8pa8526eqe74lt6hf3utkvo0thcjo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

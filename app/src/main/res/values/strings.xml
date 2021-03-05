@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Manage-It</string>
+
+    <string name="image_contentDescription">image</string>
+    <string name="let_s_get_started_text">"Let's do it"</string>
+    <string name="intro_text_description">Kollaboriere und plane zusammen über verschiedene Geräte in unserem minimalistischem Design.</string>
+    <string name="sign_in">Log In</string>
+    <string name="sign_up">Registrieren</string>
+
+    <string name="sign_up_description_text">Bitte gib deinen Namen, deine EMail Adresse und ein Passwort ein, um dich zu registrieren.</string>
+    <string name="name">Name</string>
+    <string name="password">Passwort</string>
+    <string name="email">Email</string>
+
+    <string name="sign_in_description_text">Gib deine Email Adresse und dein Passwort ein, um dich einzuloggen.</string>
+
+    <string name="please_click_back_again_to_exit">Zurück drücken, um die App zu verlassen.</string>
+    <string name="please_wait">Bitte warten</string>
+
+    <string name="nav_my_profile">Mein Profil</string>
+    <string name="nav_sign_out">Ausloggen</string>
+
+    <string name="mobile">Mobilnummer</string>
+    <string name="update">Aktualisieren</string>
+    <string name="my_profile">Mein Profil</string>
+
+    <string name="create_board_title">Board erstellen</string>
+    <string name="create">ERSTELLEN</string>
+    <string name="board_name">Board Name</string>
+
+    <string name="no_boards_are_available">Keine Boards vorhanden</string>
+</resources>
